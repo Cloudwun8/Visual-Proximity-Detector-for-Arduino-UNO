@@ -30,6 +30,7 @@ void setup()
 // I would like to have the ultrasonic sensor detect as far as possible, so test out a possible version with no distance threshold.
 // better gradient, use more led lights for it (duh) and pretty much ctrl c ctrl v the if distanceThreshold
 // test out distance with piezo, looking at examples with Hc-SR04
+// THIS is where issue #1 should be posted.
 void loop()
 {
   // set threshold distance to activate LEDs
